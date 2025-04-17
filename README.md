@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Muhammed Amin
 - 👀 I’m interested in machine learning, deep learning, malware analysis, IoT, Php, HTML, java, js,python etc.
-- As a developer, it is importantu to be ready to learn as and when the need arises.
-- 🌱 I’m currently learning react and python API development
-- 💞️ I’m looking to collaborate on malware analysis, intrusion detection, adversarial learning
+- As a developer, it is important to be ready to learn as and when the need arises.
+- 🌱 I’m currently improving my knowledge of react and python API development
+- 💞️ I’m looking to collaborate on malware analysis, intrusion detection, adversarial learning and GANs
 - 📫 How to reach me maminu0@outlook.com
 
 <!---
